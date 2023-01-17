@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshopeonweb-ricco
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: ${{ secrets.AZURE_CREDENTIALS.subscriptionId }}
+  SUBSCRIPTION-ID: 766c0a46-3591-4d12-959d-457a05dc1985
   WEBAPP-NAME: az400-webapp-ricco
 
 
